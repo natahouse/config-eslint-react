@@ -5,14 +5,15 @@
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natahouse/config-eslint.git"
+    "url": "git+https://github.com/natahouse/config-eslint-react.git"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "natahouse",
     "javascript",
-    "styleguide"
+    "styleguide",
+    "react"
   ],
   "scripts": {
     "lint": "node_modules/.bin/eslint test.jsx"
@@ -21,9 +22,9 @@
   "license": "MIT",
   "private": false,
   "bugs": {
-    "url": "https://github.com/natahouse/config-eslint/issues"
+    "url": "https://github.com/natahouse/config-eslint-react/issues"
   },
-  "homepage": "https://github.com/natahouse/config-eslint#readme",
+  "homepage": "https://github.com/natahouse/config-eslint-react#readme",
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "5.3.0",
