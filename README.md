@@ -1,13 +1,13 @@
 <img src="https://avatars1.githubusercontent.com/u/35275557?v=4&s=200" width="128px" height="128px" align="left"/>
 
-# Nata.house JavaScript Style Guide
+# Nata.house React Style Guide
 
-Nosso style guide é baseado no [Airbnb's](https://github.com/airbnb/javascript). Com algumas alterações.
+Nosso style guide é baseado no [Airbnb's](https://github.com/airbnb/javascript/tree/master/react). Disponível em português [aqui](https://github.com/ronal2do/airbnb-react-styleguide).
 
 ## Instalando
 
 ```shell
-$ yarn add @natahouse/eslint-config
+$ yarn add @natahouse/eslint-config-react
 ```
 
 Para incluir no projeto, crie o arquivo `.eslintrc` com a seguinte config:
