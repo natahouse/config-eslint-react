@@ -14,7 +14,7 @@ Para incluir no projeto, crie o arquivo `.eslintrc` com a seguinte config:
 
 ```json
 {
-  "extends": ["@natahouse"]
+  "extends": ["@natahouse/eslint-config-react"]
 }
 ```
 
